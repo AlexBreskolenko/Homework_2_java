@@ -5,7 +5,7 @@
 Параметры для фильтрации: {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
  */
 
- public class task1 
+ public class Task_1 
  {
     public static void main(String[] args) throws Exception {
       String [] list = lib.ReadLineFromFile("dataForSelect.txt"); 
